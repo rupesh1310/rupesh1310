@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A.Rupesh</h1>
-<h3 align="center">A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks</h3>
+<h3 align="center">A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with  cool libraries and frameworks</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh1310" alt="rupesh1310" /> </p>
 
 - 🔭 I’m currently working on [ crwn-clothing ](https://github.com/rupesh1310/crwn-clothing)
