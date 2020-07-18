@@ -4,7 +4,7 @@
 <a href="https://instagram.com/https://www.instagram.com/rupesh.js/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rupesh.js/" height="20" width="20" /></a>
 </p>
 
-<h3 align="center">A passionate Full Stack Software Developer 🚀 from India 🇮🇳 having an experience of building Web and Mobile applications.</h3>
+<h3 align="center">A passionate Full Stack Software Developer 🚀 from India 🇮🇳.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh1310" alt="rupesh1310" /> </p>
 
 - 🔭 I’m currently working on [ crwn-clothing ](https://github.com/rupesh1310/crwn-clothing)
