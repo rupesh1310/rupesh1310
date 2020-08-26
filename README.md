@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](#)
 
-[![Insta Follow]
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)]()
 
 # A.Rupesh
 
