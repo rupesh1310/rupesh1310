@@ -29,5 +29,18 @@ Hi there 👋, My name is A.Rupesh. A self-taught, passionate and fast-learner f
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rupesh1310&show_icons=true" alt="rupesh1310" /> </p>
+## {...} My Stack 💻🚀
 
+```js
+{
+  languages: ['JavaScript', 'Python', 'Java'],
+  backend: ['nodeJs'],
+  frontend: ['reactJs','Html5 & Css3','jQuery'],
+  databases: ['mongoDB', "sql"],
+  tools: ['vs code', 'postman', 'mongoDB Compass'],
+  Cloud: ['AWS','Heroku', 'Netlify'],
+  Open Source: ['Git, GitHub']
+}
+```
+
+<img src="https://github-readme-stats.vercel.app/api/?username=rupesh1310&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
