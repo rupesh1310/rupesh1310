@@ -41,5 +41,16 @@ Hi there 👋, My name is A.Rupesh. A self-taught, passionate and fast-learner f
   Open Source: ['Git, GitHub']
 }
 ```
+- 🔭 I’m currently working on [ crwn-clothing ](https://github.com/rupesh1310/crwn-clothing)
+
+- 👨‍💻 All of my projects are available at [tiny.cc/rupeshjs](tiny.cc/rupeshjs)
+
+- 📝 I regulary write articles on [https://medium.com/@a.rupesh66](https://medium.com/@a.rupesh66)
+
+- 💬 Ask me about **React, Node, JavaScript**
+
+- 📫 How to reach me **a.rupesh66@gmail.com**
+
+- ⚡ Fun fact **Chai over Coffee ☕️**
 
 <img src="https://github-readme-stats.vercel.app/api/?username=rupesh1310&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
