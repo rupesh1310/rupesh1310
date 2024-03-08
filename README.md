@@ -32,7 +32,7 @@ Hi there 👋, My name is A.Rupesh. A self-taught, passionate and fast-learner f
 
 ```js
 {
-  languages: ['JavaScript', 'Python', 'Java'],
+  languages: ['C#', 'JavaScript', 'Asp.Net MVC'],
   backend: ['nodeJs'],
   frontend: ['reactJs','Html5 & Css3','jQuery'],
   databases: ['mongoDB', "sql"],
